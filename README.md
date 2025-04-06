@@ -1,5 +1,6 @@
 # 💫 About Me:
-🖥️ Upcoming Full stack Developer<br>📍Tarlac, Philippines<br><br>🏅Achievements:<br> - STI's TNT Codefest (Android Studio) Champions 2025 <br> - STI's TNT Codefest (Android Studio) 2nd Runner-Up 2024<br>
+🖥️ Upcoming Full stack Developer<br>📍Tarlac, Philippines<br><br>🏅Achievements:<br> - STI's TNT Codefest Cluster 5 Competetion (Android Studio) Champions 2025 <br> - STI's TNT Codefest Local Competetion Tarlac (Android Studio) Champions 2025 <br> - STI's TNT Codefest Local Competetion Tarlac (Android Studio) 2nd Runner-Up 2024<br>
+ 
  
 🗒️I'm currently in my 3rd year College taking Bachelor of Science in Information Technology Program.
 
