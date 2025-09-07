@@ -2,7 +2,7 @@
 🖥️Full stack Developer<br>📍Tarlac, Philippines<br><br>🏅Achievements:<br> - STI's TNT Codefest National Competetion (Android Studio) 1st Runner-Up 2025 <br> - STI's TNT Codefest Cluster 5 Competetion (Android Studio) Champions 2025 <br> - STI's TNT Codefest Local Competetion Tarlac (Android Studio) Champions 2025 <br> - STI's TNT Codefest Local Competetion Tarlac (Android Studio) 2nd Runner-Up 2024<br>
  
  
-🗒️I'm currently in my 3rd year College taking Bachelor of Science in Information Technology Program.
+🗒️I'm currently in my 4th year of College taking Bachelor of Science in Information Technology Program.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jetropapa@gmail.com) 
