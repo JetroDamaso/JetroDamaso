@@ -7,7 +7,7 @@
 <br> - STI's Hackathon TNT Codefest Local Competetion Tarlac (Android Studio) 2nd Runner-Up 2024
 <br>
  
- 
+ (https://en.wikipedia.org/wiki/STI_College)
 🗒️I'm currently in my 4th year of College taking Bachelor of Science in Information Technology Program.
 
 
